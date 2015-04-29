@@ -1,0 +1,27 @@
+body {
+	text-indent: 5px;
+	font-size: 12px;
+}
+
+img {
+	height: 18px;
+	width: 26px;
+}
+
+tr, td {
+	height: 10px;
+	width: 120px;
+}
+
+tr {
+	font-size: small;
+}
+
+#mainRow {
+	color: white;
+	background-color: #009900;
+}
+
+#secondRow {
+	background-color: #DFDFE9;
+}

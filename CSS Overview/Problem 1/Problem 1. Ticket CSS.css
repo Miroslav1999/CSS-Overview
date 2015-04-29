@@ -1,0 +1,52 @@
+body {
+	background-color:  #595959;
+	font-size: 62.5%;
+	font-family: Arial, sans-serif;
+	color: #cccccc;
+}
+
+h2 {
+	font-size: 1.8em;
+	font-weight: 100;
+}
+
+col {
+	width: 50%;
+}
+
+.greenCircle {
+	font-size: 2.2em;
+	color: #71b47a;
+	margin: -0.5em 0 0 -.05em;
+}
+
+#ticketID caption {
+	text-align: left;
+}
+
+#ticketID td {
+	vertical-align: text-top;
+	font-weight: bold;
+	padding-bottom: 1em;
+}
+
+#ticketID .titleField {
+	color: #ebecec;
+	font-style: italic;
+	font-weight: bold;
+}
+
+#ticketID .userData {
+	color: #e8e0a2;
+	margin-right: 0.2em;
+}
+
+#ticketID .redLabel {
+	color: #f00;
+	margin-right: 0.2em;
+}
+
+#ticketID .orangeLabel {
+	color: #f66c2e;
+	margin-right: 0.2em;
+}
